@@ -1,5 +1,5 @@
 ﻿# Time Series - Submission 02
-In submission section, the student must build a machine learning model for text classification and meet the submission criteria.
+In submission section, the student must build a machine learning model for time series and meet the submission criteria.
 
 The criteria's are:
 
